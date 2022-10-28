@@ -17,4 +17,5 @@ WHEN the game is over
 THEN I can save my initials and score
 
 ## Screenshot
-https://user-images.githubusercontent.com/112133093/198445150-bd2b6166-9179-4723-bf52-99236b5e3d71.png
+![Screen Shot 2022-10-27 at 9 40 21 PM](https://user-images.githubusercontent.com/112133093/198445150-bd2b6166-9179-4723-bf52-99236b5e3d71.png)
+
