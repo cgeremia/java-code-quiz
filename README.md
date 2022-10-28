@@ -1,7 +1,8 @@
 ## User Story 
 AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
+I WANT to create a functional quiz using Javascript and Bootstrap
+THAT allows me to choose from multiple choice answers
+WHILE timing my progress and displays if the answer is correct or incorrect
 
 ## Accepatance Criteria
 GIVEN I am taking a code quiz
